@@ -23,9 +23,19 @@ a:hover, a:active {
 a img {
     border: 0;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2,  h4, h5, h6 {
     font-family: 'Montserrat', Helvetica, Arial, sans-serif;
     font-weight: 700;
+}
+
+h3{
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-weight: 200;
+}
+
+p {
+	 font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    
 }
 /* ==========================================================================
    Navigation
@@ -97,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-profile {
     padding: 75px 0;
-    background: #fff;
+    background: #000000;
 }
 #page-profile .profile {
     border: 5px solid #333;
@@ -107,26 +117,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-skills {
     padding: 75px 0;
-    background: #f7f7f7;
+    background: #141311;
     text-align: center;
 }
 #page-education {
     padding: 75px 0;
-    background: #fff;
+    background: #040404;
 }
 #page-experience {
     padding: 75px 0;
-    background: #f7f7f7;
+    background: #141311;
 }
 #page-portfolio {
     padding: 75px 0;
-    background: #fff;
+    background: #040404;
 }
 #page-contact {
     padding: 75px 0;
+    background: #141311;
 }
 #page-contact .contact-info p {
     font-size: 1.2em;
+    
 }
 /* ==========================================================================
    Portfolio   
