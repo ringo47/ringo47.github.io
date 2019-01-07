@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)]><html class="no-js ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>AmpereMotorsport India</title>   
+
+<meta name="description" content="Insert Your Site Description" /> 
+
+<!-- Mobile Specifics -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="HandheldFriendly" content="true"/>
+<meta name="MobileOptimized" content="320"/>   
+
+<!-- Mobile Internet Explorer ClearType Technology -->
+<!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
+
+<!-- Bootstrap -->
+<link href="_include/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Style -->
+<link href="_include/css/main.css" rel="stylesheet">
+
+<!-- Supersized -->
+<link href="_include/css/supersized.css" rel="stylesheet">
+<link href="_include/css/supersized.shutter.css" rel="stylesheet">
+
+<!-- FancyBox -->
+<link href="_include/css/fancybox/jquery.fancybox.css" rel="stylesheet">
+
+<!-- Font Icons -->
+<link href="_include/css/fonts.css" rel="stylesheet">
+
+<!-- Shortcodes -->
+<link href="_include/css/shortcodes.css" rel="stylesheet">
+
+<!-- Responsive -->
+<link href="_include/css/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="_include/css/responsive.css" rel="stylesheet">
+
+<!-- Supersized -->
+<link href="_include/css/supersized.css" rel="stylesheet">
+<link href="_include/css/supersized.shutter.css" rel="stylesheet">
+<!-- Vertical Menu -->
+<link rel="stylesheet" href="_include/css/vertical_menu.css" />
+
+<!-- Google Font -->
+<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900' rel='stylesheet' type='text/css'>
+
+<!-- Fav Icon -->
+<link rel="shortcut icon" href="#">
+
+<link rel="apple-touch-icon" href="#">
+<link rel="apple-touch-icon" sizes="114x114" href="#">
+<link rel="apple-touch-icon" sizes="72x72" href="#">
+<link rel="apple-touch-icon" sizes="144x144" href="#">
+<link rel="shortcut icon" href="favicon.ico"> 
+<!-- Modernizr -->
+<script src="_include/js/modernizr.js"></script>
+
+<!-- Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'Insert Your Code']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Analytics -->
+<style>
+table {
+color:white;
+overflow-x:scroll;
+width:100%;
+border-spacing:1px;
+border-collapse:separate;
+padding:0 3px;
+}
+
+td, th {
+height:30px;
+transition:all 1s;
+text-align:center;
+width:auto;
+}
+
+th {
+background:none;
+font-weight:700;
+border-radius: 5px;
+}
+
+td {
+background:none;
+border-radius: 5px;
+}
+
+tr:nth-child(3n+1) td {
+background-color:rgba(255,45,0,0.11);
+}
+
+tr:nth-child(3n+2) td {
+background-color:rgba(168,168,168,0.1);
+}
+
+tr:nth-child(3n) td {
+background-color:rgba(0,103,0,0.1);
+}
+
+tr td:hover {
+background:#666;
+color:#FFF
+}
+</style>
+</head>
+
+
+<body style="cursor:url(_include/img/cursor3.png);">
+<div class="alert alert-info fade in" style="text-align:center;">
+    <a class="close" data-dismiss="alert" href="#" style="color: black;font-weight: bold;font-family: sans-serif">X</a>
+    <strong style="font-size:21px;">View in landscape mode for for your viewing pleasure.</strong> 
+</div>
+<!-- This section is for Splash Screen -->
+<div class="ole">
+<section id="jSplash">
+	<div id="circle"></div>
+</section>
+</div>
+<!-- End of Splash Screen -->
+
+<!-- Homepage Slider -->
+<div id="home-slider">	
+      
+	
+	<div class="control-nav">
+        <a id="prevslide" class="load-item"><i class="font-icon-arrow-simple-left"></i></a>
+        <a id="nextslide" class="load-item"><i class="font-icon-arrow-simple-right"></i></a>
+        <ul id="slide-list"></ul>
+        
+        <a id="nextsection" href="#work"><i class="font-icon-arrow-simple-down"></i></a>
+    </div>
+</div>
+<!-- End Homepage Slider -->
+
+<!-- Header -->
+<header>
+		
+    <div class="sticky-nav" style="position:relative;z-index:12312344">
+		 
+    	<a id="mobile-nav" class="menu-nav" href="#menu-nav"></a>
+        
+        <div id="logo">
+        	<a id="goUp" href="#home-slider" title="AMI">AmpereMotorsport India</a>
+        </div>
+        
+        <nav id="menu" >
+        	<ul id="menu-nav" >
+            	<li class="current"><a href="#home-slider">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#work">The Car</a></li>
+				<li><a href="#exec">The Team</a></li>
+				<li><a href="#gallery">Gallery</a></li>
+				<li><a href="#sponsors">Sponsors</a></li>
+                <li><a href="#contact">Contact</a></li>
+				
+				
+            </ul>
+        </nav>
+        <!--<div id="theLogo" style="position:absolute;top:3px;left:16px;"><img src="_include/img/logo.png" /></div>-->
+    </div>
+</header>
+<!-- End Header -->
+
+
+
+<!-- About Section -->
+<div id="about" class="page-alternate" style="background:url('_include/bg-patterns/5.jpg');background-position:center,top;background-repeat:no-repeat;background-size:cover;" >
+<div class="container" style="box-shadow: black 2px 1px 0.6pc">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12" style="">
+            <div class="title-page">
+                
+				
+				<div style="position:relative;bottom:5px;">
+				
+				<img id="amilogo" src="_include/img/ami.png"  width="55%" style="margin-top:15px;margin-bottom:15px;">
+				<p>We are a team of undergraduate students from <a href="http://mvsrec.edu.in/" style=""><u>Maturi Venkata Subba Rao Engineering College(MVSREC)</u></a>, who have come together to put their engineering skills to use and implement ideas to design and fabricate a Formula style race car. We have participated in SUPRA SAE-INDIA 2015 and were nominated for the 'BEST INNOVATION AWARD' for building India's first All-wheel drive car<a style="font-family:atari;margin-left:8px;">'RONIN'</a>. And now, we are charged up and are ready to fire again with the new version, <a style="font-family:atari;margin-left:8px;">'ZERO'</a></p>
+                </div>
+				<img src="_include/img/supra1.png" width="200px" />
+				<p>SAE India is an affiliate society of SAE International, registered as an Indian non profit engineering and scientific society dedicated to the advancement of mobility community in India. As an individual member driven society of mobility practitioners, SAEINDIA comprises members who are individuals from the mobility community, which includes engineers, executives from industry, government officials, academics and students.
+<br>
+SUPRA SAE-INDIA is an event that challenges young minds to compete as teams in designing a Formula category vehicle, there is no other event like this in the country. To develop a vehicle consisting of various sub systems, meeting engineering specifications, timelines and above all meeting safety standards is a challenge not for the faint hearted. And then making the rubber hit the road at a premium race track under gazing eyes of experienced technical experts and other enthusiasts is a thrill not just for the participants, but for the mobility community at large. </p>
+				
+            </div>
+        </div>
+    </div>
+    <!-- End Title Page -->
+    
+    
+</div>
+</div>
+</div>
+<!-- End About Section -->
+
+<!-- Our Work Section -->
+<div id="work" class="page" style="box-shadow: red  1px 1px 0.5pc">
+<div class="container" style="box-shadow: black 1px 1px 0.3pc">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12" style="">
+            <div class="title-page">
+				<h2 style="font-family:atari;color:#a52505">RONIN ZERO</h2>
+				<img src="_include/img/about/head12312.png"/ width="100%"  style="margin-bottom:10px;">
+  				
+            	
+				<!-- Start Accordion -->
+        		<div class="accordion" id="accordionArea">
+                    <div class="accordion-group" >
+                        <div class="accordion-heading accordionize">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionArea" href="#oneArea">
+                                INTRODUCTION
+                                <span class="font-icon-arrow-simple-down"></span>
+                            </a>
+                        </div>
+                        <div id="oneArea" class="accordion-body collapse">
+                            <div class="accordion-inner" style="background-image:url('_include/img/about/aircraft.png');background-size:cover;background-repeat:no-repeat;background-position:center;">
+                               The car draws its inspiration from a Japanese revolutionary fighter aircraft Mitsubishi A6M "Zero", known for its very light and robust build.The use of high strength Aluminium for the floor,the uprights,the steering wheel,etc has made this car  as light as possible without compromising its strength in any way. The team has worked hard to make this possible through a range of modern innovations that will ensure maximum performance and push us towards victory. Read on to know more . . . </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-group" >
+                        <div class="accordion-heading accordionize">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionArea" href="#twoArea">
+                            Build
+                            <span class="font-icon-arrow-simple-down"></span>
+                        </a>
+                        </div>
+                        <div id="twoArea" class="accordion-body collapse">
+                            <div class="accordion-inner" style="background-image:url('_include/img/about/build1111.png');background-size:cover;background-repeat:no-repeat;background-position:center;">
+                                The car's frame is a steel spaceframe designed to meet all the competetion rules and the driver's ergonomic requirements with exceptional torsional rigidity. Zero stands on R14 wheels suspended through Double A-arms. The suspension geometry has been optimised to improve the car's motion control, stablity and ride comfort. The floor is made up of Aluminium honeycomb which makes it feather light, yet very strong. The uprights have been analysed and optimised for maximum life and strength and the use of Aluminium 7075-T6 makes them indestructible.. <br><br> Zero comes with a low density, Dow IMPAXX 700 energy absorbing foam and a electronic gear shift mechanism actuated by solenoids controlled by paddles .Safety has always been
+the top priority in all phases and departments
+of design and hence every possible path that
+could compromise safety has been dealt with
+zero tolerance. A 6 point harness with arm restraints and a extensive side impact structure make the car a death-proof safety cell and the robust machine it is expected to be.
+							
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="accordion-group" >
+                        <div class="accordion-heading accordionize">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionArea" href="#threeArea">
+                            Engine
+                            <span class="font-icon-arrow-simple-down"></span>
+                        </a>
+                        </div>
+                        <div id="threeArea" class="accordion-body collapse">
+                            <div class="accordion-inner" style="background-image:url('_include/img/about/speedometer1123.png');background-size:cover;background-repeat:no-repeat;background-position:center;">
+                               At the heart of  <a style="font-family:atari;margin-left:8px;">ZERO</a>  sits the mighty Royal Enfield 500 engine with a single cylinder, 4 stroke, twinspark engine with Keihin Electronic Fuel Injection which delivers 27.2 Bhp at 5250 rpm and 41.3 Nm of torque at 4000 rpm. All this power is kept under control by a five speed constant mesh transmission with wet, multi plate clutch.<br><br>The power train of RONIN ZERO is designed
+such that there will be a balanced delivery in
+power and torque. In compliance with the SAE
+rules, air intake with 20mm restrictor had to
+intervene the optimum airflow, thus reducing
+the power output from the stock parameters by
+about 3 Bhp. So the team decided to design a
+SCREW TYPE SUPERCHARGER in order to
+regain the deficit power.<br><br>
+							   
+							   With the mighty Royal Enfield 500 as the engine, a supercharged power of 31 hp and a top speed of 100 kmph, <a style="font-family:atari;margin-left:8px;">ZERO</a>  has what it takes to endure throughout and stand out in the competetion with a heart-pounding performance.
+
+                            </div>
+                        </div>
+                    </div>
+<div class="accordion-group" >
+                        <div class="accordion-heading accordionize">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionArea" href="#fourArea">
+                            Specifications
+                            <span class="font-icon-arrow-simple-down"></span>
+                        </a>
+                        </div>
+                        <div id="fourArea" class="accordion-body collapse">
+                            <div class="accordion-inner" style="background-image:url('_include/img/about/specs.png');background-size:cover;background-repeat:no-repeat;background-position:center;">
+<table>
+
+<tbody>
+
+<tr>
+<td>Wheel Base</td>
+<td>65 in</td>
+
+</tr>
+
+
+<tr>
+<td>Track Width</td>
+<td>45F/43R in</td>
+
+</tr>
+
+
+<tr>
+<td>Length</td>
+<td>2833 mm</td>
+
+</tr>
+
+<tr>
+<td>Width</td>
+<td>1301 mm</td>
+
+</tr>
+
+
+<tr>
+<td>Height</td>
+<td>1150mm</td>
+
+</tr>
+
+
+<tr>
+<td>Gross Weight</td>
+<td>280 Kg</td>
+
+</tr>
+
+<tr>
+<td>Engine Displacement</td>
+<td>499 cc, Supercharged</td>
+
+</tr>
+
+
+<tr>
+<td>Max. Power(bhp)</td>
+<td>31 @ 5000RPM</td>
+
+</tr>
+
+<tr>
+<td>Max. Torque(Nm)</td>
+<td>44 @ 4000RPM</td>
+
+</tr>
+
+<tr>
+<td>Top speed</td>
+<td>100kmph</td>
+
+</tr>
+
+
+
+<tr>
+<td>Layout</td>
+<td>RWD</td>
+
+</tr>
+
+
+
+<tr>
+<td>Suspension</td>
+<td>Double A-arm, Direct acting Dampers</td>
+
+</tr>
+
+
+<tr>
+<td>Steering</td>
+<td>Rack and Pinion</td>
+
+</tr>
+
+<tr>
+<td>Braking</td>
+<td>4 outboard brake discs,Hydraulic</td>
+
+</tr>
+
+
+<tr>
+<td>Wheels</td>
+<td>155/55 R14, Bridgestone tyres with premium X2 Alloys</td>
+
+</tr>
+
+
+
+
+</tbody>
+</table>
+							
+                            </div>
+                        </div>
+                    </div>
+            	</div>
+                <!-- End Accordion -->
+				
+				<div id="exec"><a href="team.html" target="_blank" style="color:#a52505;font-family:atari;font-size:30px;position:relative;top:25px;">Go to THE TEAM's page</a></div>
+            </div>
+        </div>
+	</div>
+</div>
+</div>
+<!-- End Our Work Section -->
+
+
+
+<div id="gallery" class="page" style="box-shadow: red  1px 1px 0.5pc;padding:0px;" >
+<div class="container">
+    <!-- Title Page -->
+    <div class="row" >
+        <div class="span12" style="margin:5px 5px 5px 5px">
+            <div class="title-page" style="margin:10px 10px 10px 10px;">
+                <h4 style="font-family:cal;" class="title"><a style="font-family:atari;color:#a52505;font-size:35px;" href="gallery.html" target="_blank">Click to view the GALLERY</a></h4>
+                
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+   
+<!-- sponsor Section -->
+<div id="sponsors" class="page" style="box-shadow: red  1px 1px 0.5pc">
+<div class="container">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12">
+            <div class="title-page">
+                <h2 class="title">Our Sponsors</h2>
+                <h3 class="title-description"></h3>
+				<a href="http://think3d.in/"><img  style="margin-bottom:10px;margin-top:25px;" src="_include/img/think3d.png"></a>
+            </div>
+        </div>
+    </div>
+	
+    <!-- End Title Page -->
+ 	
+</div>
+</div>
+<!-- End sponsor Section -->
+
+
+<!-- Contact Section -->
+<div id="contact" class="page" style="box-shadow: red  1px 1px 0.5pc">
+<div class="container">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12">
+            <div class="title-page">
+                <h2 class="title">Connect with us</h2>
+                <h3 class="title-description"></h3>
+            </div>
+        </div>
+        
+        <div class="span12" style="text-align: center;"
+        	<div class="contact-details">
+        	<a target="_blank" title="Follow Me on Facebook" href="https://www.facebook.com/amperemotorsport/"><span class="font-icon-social-facebook"></span></a>
+        		
+                
+                    <h3><a href="https://www.facebook.com/amperemotorsport">Facebook</a></h3>
+                
+            </div>
+    </div>
+    
+    
+        </div>
+    <!-- End Title Page -->
+</div>
+        
+        
+    
+    <!-- End Contact Form -->
+<!-- End Contact Section -->
+
+<!-- Twitter Feed -->
+<!-- <div id="twitter-feed" class="page-alternate">
+	<div class="container">
+    	<div class="row">
+            <div class="span12">
+                <div class="follow">
+                    <a href="https://twitter.com/Bluxart" title="Follow Me on Twitter" target="_blank"><i class="font-icon-social-twitter"></i></a>
+                </div>
+                    
+                <div id="ticker" class="query"> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- End Twitter Feed -->
+
+<!-- Socialize -->
+<div id="social-area" class="page" style="padding: 30px 30px 30px 30px;">
+	<div class="container">
+    	<div class="row">
+           <div class="span12"><a>
+                </a><nav id="social"><a>
+                    </a><ul><a>
+                        </a><li><a target="_blank" title="Follow Me on Twitter" href=""><span class="font-icon-social-twitter"></span></a></li>
+                        
+                        <li><a target="_blank" title="Follow Me on Facebook" href="https://www.facebook.com/amperemotorsport/"><span class="font-icon-social-facebook"></span></a></li>
+                        <li><a target="_blank" title="Follow Me on Google Plus" href=""><span class="font-icon-social-google-plus"></span></a></li>
+                       
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Socialize -->
+
+<!-- Footer -->
+<footer>
+	<p class="credits" style="font-size:20px;"> <a style="color:#ffffff"  href="" title="Ampere Motorsport India">Ampere Motorsport <a style="color:#932300">/</a><a style="color:#a8a8a8;">/</a><a style="color:#006700">/</a> </a></p>
+
+</footer>
+<!-- End Footer -->
+<div style="text-align:center;position:relative;margin-top:6px;background-color:#0d0d0d;box-shadow:5px 5px red;">
+<audio controls autoplay="true" loop="true">
+  <source src="pme1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+</div>
+<!-- Back To Top -->
+<a id="back-to-top" href="#">
+	<i class="font-icon-arrow-simple-up"></i>
+</a>
+<!-- End Back to Top -->
+<!--<a href="http://www.alessioatzeni.com/" title="Alessio Atzeni | Web Designer &amp; Front-end Developer">Alessio Atzeni</a>-->
+
+
+<!-- Js -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- jQuery Core -->
+<script src="_include/js/bootstrap.min.js"></script> <!-- Bootstrap -->
+<script src="_include/js/supersized.3.2.7.min.js"></script> <!-- Slider -->
+<script src="_include/js/waypoints.js"></script> <!-- WayPoints -->
+<script src="_include/js/waypoints-sticky.js"></script> <!-- Waypoints for Header -->
+<script src="_include/js/jquery.isotope.js"></script> <!-- Isotope Filter -->
+<script src="_include/js/jquery.fancybox.pack.js"></script> <!-- Fancybox -->
+<script src="_include/js/jquery.fancybox-media.js"></script> <!-- Fancybox for Media -->
+<script src="_include/js/jquery.tweet.js"></script> <!-- Tweet -->
+<script src="_include/js/plugins.js"></script> <!-- Contains: jPreloader, jQuery Easing, jQuery ScrollTo, jQuery One Page Navi -->
+<script src="_include/js/main.js"></script> <!-- Default JS -->
+<!-- End Js -->
+
+</body>
+</html>

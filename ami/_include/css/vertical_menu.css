@@ -1,0 +1,66 @@
+ <style>
+a.userLink {
+    width: 150px;
+    height: 150px;
+    display: table-cell;
+    vertical-align:middle;
+    text-align:center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+body {
+
+  	  background-size: cover;
+}
+
+#info h2.slideInfo {normal font:18px/25px georgia, serif; color:#000;}
+#info h2.slideInfo span {padding:0 80px;}
+
+#info .slideHolder {height:680px; width:800px; margin:0; padding:2px; font-family:'latomedium', arial, sans-serif; border:1px solid #888;}
+
+#info .slideOuter {height:680px; width:800px; overflow:hidden; margin:0;}
+#info .slideOuter .slide {padding:0; margin:0; list-style:none; height:680px; width:800px; overflow:hidden;}
+#info .slideOuter .slide li {display:block; float:left; height:43px; border-bottom:2px solid #fff; width:800px; overflow:hidden; background:red;
+-webkit-transition: 0.75s;
+-moz-transition: 0.75s;
+-o-transition: 0.75s;
+transition: 0.75s;
+}
+#info .slideOuter .slide li.p5 {height:500px;}
+#info .slideOuter .slide.current li {height:43px;}
+#info .slideOuter .slide.current li.current {height:500px;}
+#info .slideOuter .slide.current li.p5 {height:500px;}
+
+#info .slideOuter .slide li.p1 {background:url(../img/work/thumbs/1.png);background-size: cover;}
+#info .slideOuter .slide li.p2 {background:url(../img/work/thumbs/2.png);background-size: cover;}
+#info .slideOuter .slide li.p3 {background:url(../img/work/thumbs/3.png);background-size: cover;}
+#info .slideOuter .slide li.p4 {background:url(../img/work/thumbs/4.png);background-size: cover;}
+#info .slideOuter .slide li.p5 {background:url(../img/work/thumbs/5.png);background-size: cover;}
+
+#info .slideOuter .slide:hover li.p1, 
+#info .slideOuter .slide:hover li.p2, 
+#info .slideOuter .slide:hover li.p3,
+#info .slideOuter .slide:hover li.p4 {height:43px;}
+
+#info .slideOuter .slide:hover li.p1:hover,
+#info .slideOuter .slide:hover li.p2:hover,
+#info .slideOuter .slide:hover li.p3:hover,
+#info .slideOuter .slide:hover li.p4:hover {height:500px;}
+
+#info .slideOuter .slide li h1 {padding:0 15px; margin:0; font-size:24px; line-height:43px; text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6); font-family:'latolight', arial, sans-serif;}
+#info .slideOuter .slide li {color:#fff;}
+
+
+#info .slideOuter .slide li p {padding:0 5px 20px 15px; margin:0; font-size:15px; line-height:20px; text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6); color:#fff;}
+#info .slideOuter .slide li a {display:block; color:#fff; padding:0 15px; margin:0; font-size:15px; line-height:25px; width:600px; text-decoration:none;}
+#info .slideOuter .slide li a:hover {text-decoration:underline;}
+
+.clear {clear:left;}
+
+.mysterious {
+	color: rgba(50,50,50,1);
+	
+	text-shadow: 1px 1px 4px #fff;
+
+ }
+</style>
