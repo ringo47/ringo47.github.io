@@ -506,23 +506,7 @@ regain the deficit power.<br><br>
 <!-- End Twitter Feed -->
 
 <!-- Socialize -->
-<div id="social-area" class="page" style="padding: 30px 30px 30px 30px;">
-	<div class="container">
-    	<div class="row">
-           <div class="span12"><a>
-                </a><nav id="social"><a>
-                    </a><ul><a>
-                        </a><li><a target="_blank" title="Follow Me on Twitter" href=""><span class="font-icon-social-twitter"></span></a></li>
-                        
-                        <li><a target="_blank" title="Follow Me on Facebook" href="https://www.facebook.com/amperemotorsport/"><span class="font-icon-social-facebook"></span></a></li>
-                        <li><a target="_blank" title="Follow Me on Google Plus" href=""><span class="font-icon-social-google-plus"></span></a></li>
-                       
-                    </ul>
-                </nav>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- End Socialize -->
 
 <!-- Footer -->
