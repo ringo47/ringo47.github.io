@@ -35,7 +35,7 @@ h3{
 
 p {
 	 font-family: 'Raleway', Helvetica, Arial, sans-serif;
-	 color: white;
+	 color: #e0ded3;
     
 }
 /* ==========================================================================

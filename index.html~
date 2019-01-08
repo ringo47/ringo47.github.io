@@ -188,7 +188,7 @@
                 <div class="col-md-2">
                     <span class="chart" data-percent="100" style="color:green;">
                       <span class="percent" style="color:green;"></span>
-                    <h3 style="color: rgb(117,117,117);">Thirst</h3>
+                    <h3 style="color: rgb(117,117,117);">Inquisitiveness</h3>
                     </span>
                 </div>
                 
@@ -320,7 +320,7 @@
                         </a>
                         <div class="portfolio-caption">
                             <h4>Composite laminate analyzer</h4>
-                            <p class="text-muted" style="text-align: center; font-style: italic">Mechanics of Composite Materials - Final Project</p>
+                            <p class="text-muted" style="text-align: center; font-style: italic">Mechanics of Composite Materials - Fall '17</p>
                         </div>
                     </div>
                     
@@ -408,7 +408,7 @@
     </footer>
     <!-- Portfolio Modals -->
     <!-- Window Washer -->
-    <div class="portfolio-modal modal fade" id="window_washer" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="composite" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="close-modal" data-dismiss="modal">
@@ -422,10 +422,10 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-center">Window Washing Robot</h2>
-                                <p class="item-intro text-muted text-center">Fully autonomous robot designed to replace humans for window washing - a dangerous job with a high fatality rate.</p>
+                                <h2 class="text-center">Composite Laminate Analyzer</h2>
+                                <p class="item-intro text-muted text-center">A brute force script that analyzes all possible laminate combinations with a pre-defined increment to find the best possible ply combinations.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/window_washer/02.jpg" alt="">
-                                <p class="text-center">Our Mechatronics Team Gangsta-Flow Rida aimed to design and manufactured a window washing robot that can automatically clean a dirty window up to 5’x 8’ with a mixture of window cleaning solution and moisture. Like any other project, there were design constraints chosen by the course instructors. After semester of prototyping and iterating, our window washer robot Gangsta Flow-Rida was able to clean the window with 80% cleaniness in under a minute and thirty seconds. Our hard work paid off with a 1st place cash prize of $2500.</p>
+                                <p class="text-center">For the final project of my 'Mechanics of Composite materials' course, we were to design a 6-ply composite for the top spar cap of a wind-mill. After deciding on the loads, I decided to use our university's high performance computing grid to run around 5 million combination of plies and the hard work resulted in a ply combination that was stronger than anyone else's by an order of magnitude. The .m files can be found <a href="https://www.mathworks.com/matlabcentral/fileexchange/69703-composite-laminate-analyser?s_tid=prof_contriblnk">here.</a> </p>
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="row">
@@ -440,59 +440,13 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/window_washer/04.jpg" data-toggle="lightbox" data-gallery="window_washer" class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/window_washer/05.jpg" data-toggle="lightbox" data-gallery="window_washer" class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/05.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/window_washer/06.jpg" data-toggle="lightbox" data-gallery="window_washer" class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/06.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/window_washer/07.jpg" data-toggle="lightbox" data-gallery="window_washer" class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/07.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/window_washer/07_1.jpg" data-toggle="lightbox" data-gallery="window_washer" class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/07_1.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/window_washer/08.png" data-toggle="lightbox" data-gallery="window_washer" class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/08.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/window_washer/09.png" data-toggle="lightbox" data-gallery="window_washer" data-footer="Custom nylon Bernoulli suction cup. CNC Milled." class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/09.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/window_washer/10.png" data-toggle="lightbox" data-gallery="window_washer" data-footer="Custom aluminum Bernoulli suction cup (last iteration). CNC Milled. Supported up to 1.5 kg with 100 psi inlet." class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/10.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/window_washer/11.jpg" data-toggle="lightbox" data-gallery="window_washer" data-footer="All parts of our Bernoulli suction cup. Manufactured with a CNC Milled (housing) and CNC Lathe (inner piece with threads)." class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/11.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/window_washer/12.jpg" data-toggle="lightbox" data-gallery="window_washer" data-footer="Comparison between our Bernoulli suction cup and Festo's. Ours out-performed Festo's because theirs was not designed to be pressurized at 100 psi, but instead up to 85 psi. Festo's Bernoulli suction cup was also $300, which was around a quarter of our budget." class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/12.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/window_washer/13.jpg" data-toggle="lightbox" data-gallery="window_washer" data-footer="3D-Printed Closed Impeller. Photopolymer 3D printing (Objet 30)" class="col-sm-4">
-                                                <img src="img/portfolio/window_washer/13.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
+                                    
+                                    
+                                    
                                 </div>
                                 <ul class="list-inline">
-                                    <li>Spring 2016</li>
-                                    <li>CMU Mechatronics 24-778</li>
+                                    <li>Fall '18</li>
+                                    <li>ME 5720</li>
                                 </ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
