@@ -444,12 +444,7 @@
                                 <p class="item-intro text-muted text-center">A brute force script that analyzes all possible laminate combinations with a pre-defined increment to find the best possible ply combinations.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/composite.jpg" alt="">
                                 <p class="text-center">The task for the final project of my 'Mechanics of Composite materials' course was to design a 6-ply composite for the top spar cap of a wind-mill. After deciding on the loads, I decided to use our university's high performance computing grid to run around 5 million combination of plies and the and it resulted in a ply combination that was stronger than anyone else's by at-least a factor of 7. The .m files can be found <a href="https://www.mathworks.com/matlabcentral/fileexchange/69703-composite-laminate-analyser?s_tid=prof_contriblnk" target="_blank">here.</a> </p>
-                                <div class="row">
-                                    
-                                    
-                                    
-                                    
-                                </div>
+                                
                                 <ul class="list-inline">
                                     <li>Fall '18</li>
                                     <li>ME 5720</li>
@@ -524,10 +519,7 @@
                                         
                                         </div>
                                     </div>
-                                    
-                                
                                 </div>
-                                
                                 <ul class="list-inline">
                                     <li>Fall 2016 2016</li>
                                     <li>Ampere Motorsport India</li>
@@ -541,8 +533,8 @@
         </div>
     </div>
   
-<!-- Composites -->
-    <div class="portfolio-modal modal fade" id="composite" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- LED -->
+    <div class="portfolio-modal modal fade" id="led" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="close-modal" data-dismiss="modal">
@@ -556,16 +548,24 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-center">Composite Laminate Analyzer</h2>
-                                <p class="item-intro text-muted text-center">A brute force script that analyzes all possible laminate combinations with a pre-defined increment to find the best possible ply combinations.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/composite.jpg" alt="">
-                                <p class="text-center">The task for the final project of my 'Mechanics of Composite materials' course was to design a 6-ply composite for the top spar cap of a wind-mill. After deciding on the loads, I decided to use our university's high performance computing grid to run around 5 million combination of plies and the and it resulted in a ply combination that was stronger than anyone else's by at-least a factor of 7. The .m files can be found <a href="https://www.mathworks.com/matlabcentral/fileexchange/69703-composite-laminate-analyser?s_tid=prof_contriblnk" target="_blank">here.</a> </p>
-                                <div class="row">
-                                    
-                                    
-                                    
-                                    
-                                </div>
+                                <h2 class="text-center">1-D Music Visualizer</h2>
+                                <p class="item-intro text-muted text-center">A reactive LED Strip for my work Desk.</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/led.jpg" alt="">
+                                <p class="text-center">A hobby project to decorate my desk. A 41-Pixel WS2812b LED strip that lights up with music. More details <a href="https://hackaday.io/project/163089-1-d-music-visualizer" target="_blank">here.</a> </p>
+                                
+											<div class="row">   
+											<div class="col-md-12">
+                                        <div class="row">
+                                        
+                                        		<a href="https://youtu.be/XvEgZZN_Se0" data-toggle="lightbox" data-width="1280" data-gallery="led" class="col-sm-4">
+                                                <img src="img/portfolio/led2.jpg" class="img-responsive">
+                                            </a>
+                                            
+                                            
+                                        
+                                        </div>
+                                    </div>                             
+                                
                                 <ul class="list-inline">
                                     <li>Summer '18</li>
                                     <li>Detroit</li>
@@ -578,10 +578,58 @@
             </div>
         </div>
     </div>
+  </div>
+  <!-- LED End-->
   
+
+<!-- Spheron -->
+    <div class="portfolio-modal modal fade" id="spheron" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2 class="text-center">Spheron</h2>
+                                <p class="item-intro text-muted text-center">An omni-directional autonomous spherical rolling robot.</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/spheron.jpg" alt="">
+                                <p class="text-center">More details <a href="https://hackaday.io/project/163040-spheron" target="_blank">here.</a> </p>
+                                
+											<div class="row">   
+											<div class="col-md-12">
+                                        <div class="row">
+                                        
+                                        		
+                                            
+                                            
+                                        
+                                        </div>
+                                    </div>                             
+                                
+                                <ul class="list-inline">
+                                    <li>April '17</li>
+                                    <li>Hyderabad</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  <!-- Spheron End-->
   
-    <!-- CubeRover -->
-    <div class="portfolio-modal modal fade" id="scott" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- TARS -->
+    <div class="portfolio-modal modal fade" id="tars" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="close-modal" data-dismiss="modal">
@@ -595,51 +643,24 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-center">SCOT-T Planetary Exploration CubeRover</h2>
-                                <p class="item-intro text-muted text-center">SCOT-T is the first of the CubeRover© class used for space exploration. Designed to be compact and lightweight, this small rover is the first iteration for Astrobotic's mission to complete the Lunar X-Prize.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/cuberover/01_1_1.jpg" alt="">
-                                <p class="text-center">CubeRovers are envisioned as a class of small, lightweight, economical exploration robots. They are surface-roving counterparts to CubeSats, as transformational paradigms for more frequent missions, tolerating higher explorational risk and cutting cost. CubeRovers will proliferate as diverse means to explore more with less. In this project, I was the lead structures engineer, conducting hand analysis and FEA on the majority of the parts for mass reduction. I also machined the majority of the parts with a CNC Mill.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
+                                <h2 class="text-center">TARS</h2>
+                                <p class="item-intro text-muted text-center">The bulk being.</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/tars.jpg" alt="">
+                                <p class="text-center">More <a href="https://hackaday.io/project/163090-tars" target="_blank">here.</a> </p>
+                                
+											<div class="row">   
+											<div class="col-md-12">
                                         <div class="row">
-                                            <a href="https://youtu.be/okdXEvJNRIY" data-toggle="lightbox" data-width="1280" data-gallery="cuberover" class="col-sm-4">
-                                                <img src="img/portfolio/cuberover/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="https://youtu.be/ro3z1fRrbsk" data-toggle="lightbox" data-gallery="cuberover" class="col-sm-4">
-                                                <img src="img/portfolio/cuberover/09.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cuberover/01_1.jpg" data-toggle="lightbox" data-width="1280" data-gallery="cuberover" class="col-sm-4">
-                                                <img src="img/portfolio/cuberover/01_1.jpg" class="img-responsive">
-                                            </a>
+                                        
+                                        		
+                                            
+                                        
                                         </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/cuberover/04.jpg" data-toggle="lightbox" data-gallery="cuberover" class="col-sm-4">
-                                                <img src="img/portfolio/cuberover/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cuberover/07.jpg" data-toggle="lightbox" data-gallery="cuberover" class="col-sm-4">
-                                                <img src="img/portfolio/cuberover/07.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cuberover/06.jpg" data-toggle="lightbox" data-gallery="cuberover" class="col-sm-4">
-                                                <img src="img/portfolio/cuberover/06.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/cuberover/08.jpg" data-toggle="lightbox" data-gallery="cuberover" class="col-sm-4">
-                                                <img src="img/portfolio/cuberover/08.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cuberover/05.jpg" data-toggle="lightbox" data-gallery="cuberover" class="col-sm-4">
-                                                <img src="img/portfolio/cuberover/05.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+                                    </div>                             
+                                
                                 <ul class="list-inline">
-                                    <li>Fall 2015</li>
-                                    <li>CMU Mobile Robot Design 16-861</li>
+                                    <li>Summer '18</li>
+                                    <li>Detroit</li>
                                 </ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
@@ -649,1072 +670,9 @@
             </div>
         </div>
     </div>
-    <!-- SMA -->
-    <div class="portfolio-modal modal fade" id="sma" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Stiffness Tuning with SMA</h2>
-                                <p class="item-intro text-muted">Stiffness Tuning with a Partially-Embedded Shape-Memory-Alloy Coil</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/sma/02.png" alt="">
-                                <p>Current elastomers are limited in the sense that they will typically have a set effective stiffness. By being able to control the effective stiffness of an elastomer, it is possible for soft mechanisms and robots to have much more controllable degrees of freedom. To do this, shape-memory-alloy coil, or SMA coil, is partially embedded into a silicone elastomer. The stiffness of the elastomer is controlled by the temperature of the SMA coil, where after the SMA coil's activation temperature, it will begin to exert a restorning force, hence increasing the effective stiffness. To increase the response time of the elastomer, the SMA coil is partially embedded into the silicone, where it can cool down much more quickly if exposed to ambient air temperature. A theoretical model is validated with experimental data, where the effective stiffness is compared against the temperature of the SMA coil.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/sma/02.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/02.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/sma/03.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/03.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/sma/04.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/04.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/sma/05.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/05.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/sma/06.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/06.png" class="img-responsive">
-                                            </a>
-                                            <a href="https://youtu.be/M0VbhduJH7M" data-toggle="lightbox" data-gallery="sma" data-width="1280" class="col-sm-4">
-                                                <img src="img/portfolio/sma/video_image.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/sma/05.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/05.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/sma/06.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/06.png" class="img-responsive">
-                                            </a>
-                                            <a href="https://youtu.be/M0VbhduJH7M" data-toggle="lightbox" data-gallery="sma" data-width="1280" class="col-sm-4">
-                                                <img src="img/portfolio/sma/video_image.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/sma/05.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/05.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/sma/06.png" data-toggle="lightbox" data-gallery="sma" class="col-sm-4">
-                                                <img src="img/portfolio/sma/06.png" class="img-responsive">
-                                            </a>
-                                            <a href="https://youtu.be/M0VbhduJH7M" data-toggle="lightbox" data-gallery="sma" data-width="1280" class="col-sm-4">
-                                                <img src="img/portfolio/sma/video_image.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Spring 2016</li>
-                                    <li>CMU Soft Matter Engineering 24-673</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- PCKMAN -->
-    <div class="portfolio-modal modal fade" id="packman" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>PCKMAN</h2>
-                                <p class="item-intro text-muted">Lower Limb Prosthetic Socket Interface using Jamming of Granular Material</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/packman/01.png" alt="">
-                                <p>We evaluate a novel type of lower-limb check socket that utilizes granular jamming of material that can accommodate large volume and shape variations of the residual limb to increase conformability and comfort for recent amputees. Investigations across shells of different stiffness, grains of different size, and packing conditions under different vacuum pressures have shown that a stiff shell made of 1.5 mm thick carbon fiber, coffee grains with a minimum vacuum pressure of 15 inHg can withstand 1053 kPa of statically applied pressure with less than 1 mm of compression. The overall socket could also be as light as 3 lbs once an onboard vacuum is attached and accommodate a roughly 7\% change in limb volume, showing that further research in a check socket that utilizes granular jamming of material could allow more conformability and comfort throughout the day for recent amputees.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/packman/02.png" data-toggle="lightbox" data-gallery="packman" class="col-sm-4">
-                                                <img src="img/portfolio/packman/02.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/packman/03.jpg" data-toggle="lightbox" data-gallery="packman" class="col-sm-4">
-                                                <img src="img/portfolio/packman/03.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/packman/04.jpg" data-toggle="lightbox" data-gallery="packman" class="col-sm-4">
-                                                <img src="img/portfolio/packman/04.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/packman/05.jpg" data-toggle="lightbox" data-gallery="packman" class="col-sm-4">
-                                                <img src="img/portfolio/packman/05.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/packman/06.jpg" data-toggle="lightbox" data-gallery="packman" class="col-sm-4">
-                                                <img src="img/portfolio/packman/06.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/packman/07.jpg" data-toggle="lightbox" data-gallery="packman" class="col-sm-4">
-                                                <img src="img/portfolio/packman/07.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/packman/08.jpg" data-toggle="lightbox" data-gallery="packman" class="col-sm-4">
-                                                <img src="img/portfolio/packman/08.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cuberover/09.jpg" data-toggle="lightbox" data-gallery="packman" class="col-sm-4">
-                                                <img src="img/portfolio/packman/09.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2015</li>
-                                    <li>CMU Design of Biomechatronics for Humans 24-674</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Hand -->
-    <div class="portfolio-modal modal fade" id="hand" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Design of a Configurable Anthropomorphic Underactuated Hand</h2>
-                                <p class="item-intro text-muted">This research project aims to reduce the number of actuators in a prosthetic hand while retaining the number of controllable degrees-of-freedom.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/hand/02.jpg" alt="">
-                                <p>We present the design and fabrication of a configurable anthropomorphic underactuated hand for multipurposemanipulation tasks. In order to increase the versatility ofan underactuated hand, a mechanical selector wasintroduced to individually control the actuation for each of the four tendon-driven fingers. The selector is controlledby a servo motor and the grasping motion is controlled by a DC motor. The body of the hand and fingers are 3D-printed from a rigid plastic while the antagonistic passiveelastic members for the fingers are a silicone elastomer.Lastly, the hand uses a differential pulley system for an adaptive grasp.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/hand/02.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/03.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/03.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/04.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/05.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/05.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/hand/06.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/06.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/07.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/07.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/08.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/08.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/09.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/09.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/hand/10.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/10.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/11.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/11.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/12.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/12.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/13.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/13.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/hand/14.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/14.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/15.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/15.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/16.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/16.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/17.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-3">
-                                                <img src="img/portfolio/hand/17.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/hand/19.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-4">
-                                                <img src="img/portfolio/hand/19.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/20.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-4">
-                                                <img src="img/portfolio/hand/20.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/21.jpg" data-toggle="lightbox" data-gallery="hand" class="col-sm-4">
-                                                <img src="img/portfolio/hand/21.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Summer 2015</li>
-                                    <li>CMU Soft Robotics and Bionics Lab</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Design 1 -->
-    <div class="portfolio-modal modal fade" id="design1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Design 1 Robotic Gripper</h2>
-                                <p class="item-intro text-muted">This competitive project was meant to push us to design a lightweight gripper to support holding a 1 kg brass torus under dynamic loading.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/design1/01.png" alt="">
-                                <p>The goal of this project was to design, fabricate, and test a robotic gripper comprised for custom and catalog components. The gripper had to reliably grasp, hold and release a 1kg heavy object. Our team had 5 members in it, each person had specific roles. My role was to oversee the entire design process, including designing critical components, create 3D models of the components, and finally machine them. This project truely taught us how stressful the whole design process can be and how we can manage to delegate the work amongst the group. Overall, our team functioned very well, as our gripper was the only one to pass the test during the first iteration, and was one of the lightest grippers.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/design1/01_1.png" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/01_1.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/design1/02.jpg" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/design1/03.jpg" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/03.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/design1/04.jpg" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/design1/05.jpg" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/05.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/design1/06.jpg" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/06.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/design1/07.png" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/07.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/design1/08.png" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/08.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/design1/09.png" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/09.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/design1/10.png" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/10.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/design1/10_1.png" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/10_1.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/design1/11.jpg" data-toggle="lightbox" data-gallery="design1" class="col-sm-4">
-                                                <img src="img/portfolio/design1/11.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Spring 2015 - present</li>
-                                    <li>CMU Engineering Design I 24-370</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Fiber Optic -->
-    <div class="portfolio-modal modal fade" id="fiberoptic" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Fiber Optically Sensorized Multi-Fingered Gripper</h2>
-                                <p class="item-intro text-muted">This project was to demonstrate how embedded fiber optic sensors in the structure of 3D-printed fingers could revolutionize sensing in future prothestic hands.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/fiberoptic/01_1.png" alt="">
-                                <p>We present the design, fabrication, and characterization of a fiber optically sensorized robotic hand for multi purpose manipulation tasks. The robotic hand has three fingers that enable both pinch and power grips. The main bone structure was made of a rigid plastic material and covered by soft skin. Both bone and skin contain embedded fiber optics for force and tactile sensing, respectively. Eight fiber optic strain sensors were used for rigid bone force sensing, and six fiber optic strain sensors were used for soft skin tactile sensing. For characterization, different loads were applied in two orthogonal axes at the fingertip and the sensor signals were measured from the bone structure. The skin was also characterized by applying a light load on different places for contact localization. The actuation of the hand was achieved by a tendon-driven under-actuated system. Gripping motions are implemented using an active tendon located on the volar side of each finger and connected to a motor. Opening motions of the hand were enabled by passive elastic tendons located on the dorsal side of each finger.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="https://youtu.be/C65vB848frk" data-toggle="lightbox" data-gallery="fiberoptic" data-width="1280" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/video_image.png" class="img-responsive">
-                                            </a>
-                                            <a href="https://youtu.be/fyxL41p8-j8" data-toggle="lightbox" data-gallery="fiberoptic" data-width="1280" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/video_image2.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/fiberoptic/03.jpg" data-toggle="lightbox" data-gallery="fiberoptic" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/03.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/fiberoptic/04.jpg" data-toggle="lightbox" data-gallery="fiberoptic" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/fiberoptic/05.jpg" data-toggle="lightbox" data-gallery="fiberoptic" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/05.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/fiberoptic/06.jpg" data-toggle="lightbox" data-gallery="fiberoptic" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/06.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/fiberoptic/07.jpg" data-toggle="lightbox" data-gallery="fiberoptic" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/07.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/hand/fiberoptic.jpg" data-toggle="lightbox" data-gallery="fiberoptic" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/fiberoptic/IROS_2015_low3.pdf" class="col-sm-4">
-                                                <img src="img/portfolio/fiberoptic/IROS_2015_low3_cover.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2014 - present</li>
-                                    <li>CMU Soft Robotics and Bionics Lab</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> 
-    <!-- Cup Holder -->
-    <div class="portfolio-modal modal fade" id="cup_holder" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Coffee Cup Holder - Steadtea</h2>
-                                <p class="item-intro text-muted">This project was aimed to make a durable and compact cup holder using only acrylic.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/cup_holder/01_1.png" alt="">
-                                <p>The cup holder was brought from idea to realization by conduction sketches, laser-cutting, and finally heat forming with acrylic.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="https://youtu.be/e-HUHWsbgAU" data-toggle="lightbox" data-gallery="cup_holder" data-width="1280" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/video_image.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/01_2.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/01_2.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/02.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/03.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/03.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/cup_holder/04.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/05.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/05.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/06.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/06.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/07.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/07.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/cup_holder/08.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/08.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/09.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/09.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/10.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/10.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/11.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/11.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/cup_holder/12.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/12.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/cup_holder/13.jpg" data-toggle="lightbox" data-gallery="cup_holder" class="col-sm-3">
-                                                <img src="img/portfolio/cup_holder/13.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2016</li>
-                                    <li>CMU DIY Design and Fabrication</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-	<!-- Wiimote -->
-    <div class="portfolio-modal modal fade" id="wiimote" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Transforming Box - WiiMote Holder</h2>
-                                <p class="item-intro text-muted">This project was aimed to make a transforming paper product.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/diy_ps2/01_1.png" alt="">
-                                <p>The box was brought from idea to realization by conduction sketches, prototyping with paper, and finally designing and laser-cutting the layout on chipboard.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps2/02.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/03.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/03.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/04.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/05.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/05.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps2/06.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/06.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/07.png" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/07.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/08.png" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/08.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/09.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/09.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps2/10.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/10.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/11.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/11.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/12.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/12.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/13.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/13.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps2/14.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/14.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/15.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/15.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/16.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/16.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/17.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/17.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps2/18.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/18.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/19.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/19.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/20.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/20.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps2/21.jpg" data-toggle="lightbox" data-gallery="wiimote" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps2/21.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2016</li>
-                                    <li>CMU DIY Design and Fabrication</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Bistable -->
-    <div class="portfolio-modal modal fade" id="diy_ps3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Desktop Accessory - Device Stand</h2>
-                                <p class="item-intro text-muted">This project was aimed to make a desktop accessory that had at least one degree-of-freedom.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/diy_ps3/01_1.png" alt="">
-                                <p>Bistabil was brought from idea to realization by conducting sketches, prototyping with LEGO Technics, and finally designing, laser-cutting, and heat forming the product.</p>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps3/02.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/03.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/03.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/04.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/05.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/05.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps3/06.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-4">
-                                                <img src="img/portfolio/diy_ps3/06.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/07.png" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-4">
-                                                <img src="img/portfolio/diy_ps3/07.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/08.png" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-4">
-                                                <img src="img/portfolio/diy_ps3/08.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps3/10.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/10.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/11.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/11.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/12.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/12.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/13.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/13.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps3/14.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/14.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/15.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/15.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/16.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/16.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/17.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/17.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps3/18.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/18.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/19.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/19.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps3/20.jpg" data-toggle="lightbox" data-gallery="bistabil" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps3/20.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2016</li>
-                                    <li>CMU DIY Design and Fabrication</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Silicone Molding -->
-    <div class="portfolio-modal modal fade" id="diy_ps4" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Silicone and Resin Molding - Gecko</h2>
-                                <p class="item-intro text-muted">This project was aimed to practice molding using silicone as the mold and resin as the cast.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/diy_ps4/1_1.jpg" alt="">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps4/03.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/03.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/04.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/05.png" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/05.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/06.png" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/06.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps4/07.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/07.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/08.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/08.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/09.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/09.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/10.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/10.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps4/11.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/11.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/12.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/12.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/13.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/13.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/14.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/14.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps4/15.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/15.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/16.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/16.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/17.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/17.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps4/18.jpg" data-toggle="lightbox" data-gallery="ps4" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps4/18.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2016</li>
-                                    <li>CMU DIY Design and Fabrication</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Clay Modeling  -->
-    <div class="portfolio-modal modal fade" id="diy_ps5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Clay Modeling of WiiMote</h2>
-                                <p class="item-intro text-muted">This project was aimed to practice clay modeling to bring idea to reality.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/diy_ps5/1_1.jpg" alt="">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps5/02.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/03.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/03.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/04.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/04.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/05.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/05.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps5/06.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/06.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/07.png" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/07.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/08.png" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/08.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/09.png" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/09.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps5/10.png" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/10.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/11.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/11.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/12.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/12.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/13.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/13.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps5/14.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/14.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/15.jpg" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/15.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/16.png" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/16.png" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps5/17.png" data-toggle="lightbox" data-gallery="ps5" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps5/17.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2016</li>
-                                    <li>CMU DIY Design and Fabrication</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Sketching -->
-    <div class="portfolio-modal modal fade" id="diy_ps6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Selected Sketches</h2>
-                                <img class="img-responsive img-centered" src="img/portfolio/diy_ps6/1_1.jpg" alt="">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps6/02.jpg" data-toggle="lightbox" data-gallery="ps6" class="col-sm-6">
-                                                <img src="img/portfolio/diy_ps6/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps6/03.png" data-toggle="lightbox" data-gallery="ps6" class="col-sm-6">
-                                                <img src="img/portfolio/diy_ps6/03.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2016</li>
-                                    <li>CMU DIY Design and Fabrication</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Da Stand -->
-    <div class="portfolio-modal modal fade" id="diy_ps7" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2>Headphone Stand</h2>
-                                <p class="item-intro text-muted">I needed a nicer looking headphone stand, so I made one.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/diy_ps7/1_1.png" alt="">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps7/02.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-4">
-                                                <img src="img/portfolio/diy_ps7/02.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/03.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-4">
-                                                <img src="img/portfolio/diy_ps7/03.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/04.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-4">
-                                                <img src="img/portfolio/diy_ps7/04.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps7/05.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/05.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/06.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/06.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/07.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/07.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/08.png" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/08.png" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps7/09.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/09.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/10.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/10.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/11.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/11.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/12.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/12.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps7/13.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/13.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/14.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/14.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/15.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/15.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/16.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/16.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="row">
-                                            <a href="img/portfolio/diy_ps7/17.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/17.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/18.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/18.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/19.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/19.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/diy_ps7/20.jpg" data-toggle="lightbox" data-gallery="ps7" class="col-sm-3">
-                                                <img src="img/portfolio/diy_ps7/20.jpg" class="img-responsive">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <ul class="list-inline">
-                                    <li>Fall 2016</li>
-                                    <li>CMU DIY Design and Fabrication</li>
-                                </ul>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+  </div>
+  <!-- TARS End-->
+ 
     <script src="js/agency.js"></script>
     <script src="js/agency.min.js"></script>
     <script src="js/jquery-2.1.3.min.js"></script>
