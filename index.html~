@@ -407,6 +407,7 @@
                     <h3>You can find me at:</h3>
                     <p><i class="fa fa-map-marker"></i> 4500 Cass Ave, Apt 903 </p>
                     <p><i class="fa fa-phone"></i>+1(313) 408-6458</p>
+                    <p><i class="fa fa-envelope-o"></i> vsolipuram5@gmail.com</p>
                     <p><i class="fa fa-envelope-o"></i> gp5704@wayne.edu</p>
                 </div>
                 
@@ -672,6 +673,96 @@
     </div>
   </div>
   <!-- TARS End-->
+  
+  <!-- Live Racing -->
+    <div class="portfolio-modal modal fade" id="racing" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2 class="text-center">Live Racing</h2>
+                                <p class="item-intro text-muted text-center">A hacked RC car with a camera mounted on top controlled over the internet via a Raspberry Pi</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/racing.jpg" alt="">
+                                <p class="text-center">Find more <a href="https://hackaday.io/project/163091-live-racing-rpi" target="_blank">here.</a> </p>
+                                
+											<div class="row">   
+											<div class="col-md-12">
+                                        <div class="row">
+                                        
+                                        		
+                                            
+                                        
+                                        </div>
+                                    </div>                             
+                                
+                                <ul class="list-inline">
+                                    <li>Winter '18</li>
+                                    <li>Detroit</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  <!-- Live Racing End-->
+  
+    <!-- Live Racing -->
+    <div class="portfolio-modal modal fade" id="supercharger" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2 class="text-center">Cone-Screw SuperCharger</h2>
+                                <p class="item-intro text-muted text-center">An electric prototype supercharger.</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/supercharger.jpg" alt="">
+                                <p class="text-center">Find more <a href="https://hackaday.io/project/163091-live-racing-rpi" target="_blank">here.</a> </p>
+                                
+											<div class="row">   
+											<div class="col-md-12">
+                                        <div class="row">
+                                        
+                                        		
+                                            
+                                        
+                                        </div>
+                                    </div>                             
+                                
+                                <ul class="list-inline">
+                                    <li>Winter '18</li>
+                                    <li>Detroit</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  <!-- Live Racing End-->
  
     <script src="js/agency.js"></script>
     <script src="js/agency.min.js"></script>
