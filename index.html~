@@ -705,8 +705,8 @@
                                     </div>                             
                                 
                                 <ul class="list-inline">
-                                    <li>Winter '18</li>
-                                    <li>Detroit</li>
+                                    <li>Aug 2017</li>
+                                    <li>Hyderabad</li>
                                 </ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
@@ -719,7 +719,7 @@
   </div>
   <!-- Live Racing End-->
   
-    <!-- Live Racing -->
+    <!-- SuperCharger -->
     <div class="portfolio-modal modal fade" id="supercharger" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -737,7 +737,7 @@
                                 <h2 class="text-center">Cone-Screw SuperCharger</h2>
                                 <p class="item-intro text-muted text-center">An electric prototype supercharger.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/supercharger.jpg" alt="">
-                                <p class="text-center">Find more <a href="https://hackaday.io/project/163091-live-racing-rpi" target="_blank">here.</a> </p>
+                                <p class="text-center">A senior's idea to extract more power from our RE 500cc engine. A double helix wrapped around a cone with inlet and outlet at the opposite ends and the motor would be mounted to the head of the cone. Flow-Simulation resulted in 6psi boost at 1000rads/s and 0.75N-m of torque. Theoretically, this would boost the engine's naturally aspirated 23hp to ~41hp peak power.<a href="https://hackaday.io/project/163100-a-cone-screw-supercharger" target="_blank">here.</a> </p>
                                 
 											<div class="row">   
 											<div class="col-md-12">
@@ -750,8 +750,8 @@
                                     </div>                             
                                 
                                 <ul class="list-inline">
-                                    <li>Winter '18</li>
-                                    <li>Detroit</li>
+                                    <li>July 2016</li>
+                                    <li>Hyderabad</li>
                                 </ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
@@ -762,7 +762,7 @@
         </div>
     </div>
   </div>
-  <!-- Live Racing End-->
+  <!-- Supercharger End-->
  
     <script src="js/agency.js"></script>
     <script src="js/agency.min.js"></script>
