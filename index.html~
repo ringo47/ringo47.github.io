@@ -355,7 +355,7 @@
                     
                     <div class="col-md-4 col-sm-6 portfolio-item mix diy">
                         <a href="#tars" class="portfolio-link" data-toggle="modal">
-                            <img src="img/portfolio/TARS.jpg" class="img-responsive" alt="">
+                            <img src="img/portfolio/TARS1.jpg" class="img-responsive" alt="">
                         </a>
                         <div class="portfolio-caption">
                             <h4>TARS</h4>
@@ -385,8 +385,18 @@
                             <img src="img/portfolio/supercharger.jpg" class="img-responsive" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Electric Cone Screw - SuperCharger</h4>
+                            <h4>An Electric Cone Screw - SuperCharger</h4>
                             <p class="text-muted" style="text-align: center; font-style: italic">SupraSAE India 2016</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 col-sm-6 portfolio-item mix other">
+                        <a href="#art" class="portfolio-link" data-toggle="modal">
+                            <img src="img/portfolio/graphic.png" class="img-responsive" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Graphics / Movies</h4>
+                            <p class="text-muted" style="text-align: center; font-style: italic">When words fall short.</p>
                         </div>
                     </div>
                     
@@ -601,15 +611,13 @@
                                 <h2 class="text-center">Spheron</h2>
                                 <p class="item-intro text-muted text-center">An omni-directional autonomous spherical rolling robot.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/spheron.jpg" alt="">
-                                <p class="text-center">More details <a href="https://hackaday.io/project/163040-spheron" target="_blank">here.</a> </p>
+                                <p class="text-center">Inspired by Goodyear's Eagle-360 and BB-8 from Star Wars, I decided to build an omni-directional  autonomous spherical robot. Built the casing by laying fiber-glass and 2 layers of Carbon-Fibre over a 15-inch beach ball. The drive unit inside was coupled to the sensor unit on the top by Neodymium magnets and the communication was enabled via a radio transmitter-receiver unit. The sensor had two ultra-sonic ranging sensors which pings the distance to ground and will detect an obstacle of a given height(I put 5cm) and stop the drive unit inside via the radio. More details <a href="https://hackaday.io/project/163040-spheron" target="_blank">here.</a> </p>
                                 
 											<div class="row">   
 											<div class="col-md-12">
                                         <div class="row">
-                                        
-                                        		
-                                            
-                                            
+
+
                                         
                                         </div>
                                     </div>                             
@@ -646,7 +654,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2 class="text-center">TARS</h2>
                                 <p class="item-intro text-muted text-center">The bulk being.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/tars.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/TARS.jpg" alt="">
                                 <p class="text-center">It was featured on Hackaday.io. Yay! More <a href="https://hackaday.io/project/163090-tars" target="_blank">here.</a> </p>
                                 
 											<div class="row">   
@@ -763,6 +771,102 @@
     </div>
   </div>
   <!-- Supercharger End-->
+  
+  
+      <!-- Art -->
+    <div class="portfolio-modal modal fade" id="art" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2 class="text-center">Graphic Design</h2>
+                                <p class="item-intro text-muted text-center">When words fall short.</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/art/cover.png" alt="">
+                                <p class="text-center">Being in a Formula Student team and a student association has allowed me to acquire another powerful skill and tool: Graphic Design. I found my interest in this field in my second year of under-grad where I designed websites and posters for an event called AutoCognizance, a technical festival in my college for all things cars. I continued to put these skills to supplement my technical work and kept improving along the way. I primarily use Gimp and Blender, both of which are free and open source software for Image and Video editing. </p>
+                                
+											<div class="row">   
+											<div class="col-md-12">
+                                        <div class="row">
+                                        	  <a href="img/portfolio/art/7.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/7.jpg" class="img-responsive">
+                                            </a>
+                                            
+                                            <a href="img/portfolio/art/4.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/4.jpg" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/art/5.png" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/5.png" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/art/6.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/6.jpg" class="img-responsive">
+                                            </a>
+                                            
+                                            <a href="img/portfolio/art/2.png" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/2.png" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/art/17.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/17.jpg" class="img-responsive">
+                                            </a>
+                                            
+                                           
+                                        </div>
+                                    </div>  
+                                    
+                                    <div class="col-md-12">
+                                        <div class="row">  
+                                        
+                                        <a href="img/portfolio/art/11.png" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/11.png" class="img-responsive">
+                                            </a>
+                                            
+                                            <a href="img/portfolio/art/14.png" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/14.png" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/art/15.png" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/15.png" class="img-responsive">
+                                            </a>
+                                            
+                                            <a href="img/portfolio/art/1.png" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/1.png" class="img-responsive">
+                                            </a>
+                                            
+                                            <a href="img/portfolio/art/8.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/8.jpg" class="img-responsive">
+                                            </a>
+                                            
+                                            <a href="img/portfolio/art/13.png" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/art/13.png" class="img-responsive">
+                                            </a>
+                                            
+                                             
+                                             <video width="400" controls>
+  																<source src="img/portfolio/art/3.mp4" type="video/mp4">
+ 																Your browser does not support HTML5 video.
+															</video>
+                                        
+                                        </div>
+                                    </div>                         
+                                
+                                
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  <!-- Art End-->
  
     <script src="js/agency.js"></script>
     <script src="js/agency.min.js"></script>
