@@ -568,10 +568,11 @@
 											<div class="col-md-12">
                                         <div class="row">
                                         
-                                        		<a href="https://youtu.be/XvEgZZN_Se0" data-toggle="lightbox" data-width="1280" data-gallery="led" class="col-sm-4">
+                                        		<a href="img/portfolio/led2.jpg" data-toggle="lightbox" data-width="1280" data-gallery="led" class="col-sm-4">
                                                 <img src="img/portfolio/led2.jpg" class="img-responsive">
                                             </a>
                                             
+                                            <iframe width="560" height="315" src="https://www.youtube.com/embed/XvEgZZN_Se0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                             
                                         
                                         </div>
