@@ -124,6 +124,8 @@
                     
                     <a href="https://www.facebook.com/s.varshith" target="_blank" class="btn btn-round btn-clear btn-facebook"><i class="fa fa-facebook"></i></a>
                     
+                    <a href="https://github.com/ringo47" target="_blank" class="btn btn-round btn-clear btn-facebook"><i class="fa fa-github"></i></a>
+                    
                     <!--<a href="https://www.dribbble.com/" class="btn btn-round btn-clear btn-dribbble"><i class="fa fa-dribbble"></i></a>-->
                     <!--<a href="https://www.instagram.com/" class="btn btn-round btn-clear btn-instagram"><i class="fa fa-instagram"></i></a>-->
                     
@@ -137,7 +139,7 @@
     </section>
     <!-- welcome ends -->
     <!-- profile begins -->
-    <section id="page-profile" class="page-profile" style="background:url(img/bg.png);background-repeat:repeat;box-shadow: inset green 1px 1px 0.5pc">
+    <section id="page-profile" class="page-profile" style="background:url(img/bg.png);background-repeat:repeat;border-bottom: 4px solid #203e72;">
         <div class="container">
             <header class="section-header">
                 <h2 class="section-title">Personal Profile</h2>
@@ -147,8 +149,8 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="profile">
-							<a href="img/profile.jpg" data-toggle="lightbox" data-gallery="window_washer" data-width="1280" class="" style="width:100%;padding:0px;">
-<img src="img/profile.jpg" alt="profile" />							
+							<a href="img/profile1.jpg" data-toggle="lightbox" data-gallery="window_washer" data-width="1280" class="" style="width:100%;padding:0px;">
+<img src="img/profile1.jpg" alt="profile" />							
 							 </a>                  
                     
                     </div>
@@ -355,7 +357,7 @@
                     
                     <div class="col-md-4 col-sm-6 portfolio-item mix diy">
                         <a href="#tars" class="portfolio-link" data-toggle="modal">
-                            <img src="img/portfolio/TARS123.jpg" class="img-responsive" alt="" style="height:215px;width:370px;">
+                            <img src="img/portfolio/TARS1234.jpg" class="img-responsive" alt="" style="height:215px;width:370px;">
                         </a>
                         <div class="portfolio-caption">
                             <h4>TARS</h4>
@@ -364,7 +366,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item mix diy">
                         <a href="#led" class="portfolio-link" data-toggle="modal">
-                            <img src="img/portfolio/led123.jpg" class="img-responsive" alt="" style="height:215px;width:370px;">
+                            <img src="img/portfolio/led1234.jpg" class="img-responsive" alt="" style="height:215px;width:370px;">
                         </a>
                         <div class="portfolio-caption">
                             <h4>1D Music Visualizer</h4>
@@ -382,7 +384,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item mix other">
                         <a href="#supercharger" class="portfolio-link" data-toggle="modal">
-                            <img src="img/portfolio/supercharger123.jpg" class="img-responsive" alt="" style="height:215px;width:370px;">
+                            <img src="img/portfolio/supercharger1234.jpg" class="img-responsive" alt="" style="height:215px;width:370px;">
                         </a>
                         <div class="portfolio-caption">
                             <h4>An Electric Cone Screw - SuperCharger</h4>
@@ -436,6 +438,7 @@
         </div>
     </footer>
     <!-- Portfolio Modals -->
+    
     <!-- Composites -->
     <div class="portfolio-modal modal fade" id="composite" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
@@ -468,6 +471,7 @@
             </div>
         </div>
     </div>
+    
     <!-- Ronin -->
     <div class="portfolio-modal modal fade" id="ronin" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
@@ -487,29 +491,34 @@
                                 <p class="item-intro text-muted text-center">Full space-frame formula student car.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/ronin_t.png" alt="">
                                 <p class="text-center">After a completing our first formula student competition in 2015 successfully, we set out on a journey to build a better, faster car for the SupraSAE India '16 competition. With many wild ideas and the knowledge gained from our seniors and, I also got a to work on some off-beat concepts. You can read more about it <a href="ami/index.html" target="_blank">here.</a></p>
-                                <div class="row">
+                                
+                                <a href="https://grabcad.com/library/ronin-zero-1" target="_blank"><h3  style="font-family: Montserrat;color: #ba2828">3D files be found here.</h3></a>
+                                <div class="row" style="margin-top: 20px;">
+                                    
+                                    
                                     <div class="col-md-12">
                                         <div class="row">
-                                            <a href="img/portfolio/ronin (1).jpg" data-toggle="lightbox" data-width="1280" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (1).jpg" class="img-responsive">
+                                            
+                                            <a href="img/portfolio/ronin/6.png" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/6.png" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/ronin/7.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/7.jpg" class="img-responsive">
                                             </a>
                                             
-                                            <a href="img/portfolio/ronin (3).jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (3).jpg" class="img-responsive">
+														  <a href="img/portfolio/ronin/9.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/9.jpg" class="img-responsive">
                                             </a>
-                                            <a href="img/portfolio/ronin (7).jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (7).jpg" class="img-responsive">
+                                            <a href="img/portfolio/ronin/3.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/3.jpg" class="img-responsive">
                                             </a>
-                                            <a href="img/portfolio/ronin (8).jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (8).jpg" class="img-responsive">
+                                            <a href="img/portfolio/ronin/5.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/5.jpg" class="img-responsive">
                                             </a>
-                                            <a href="img/portfolio/ronin (9).jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (9).jpg" class="img-responsive">
+                                            <a href="img/portfolio/ronin/2.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/2.jpg" class="img-responsive">
                                             </a>
-                                            <a href="img/portfolio/ronin (4).jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (4).jpg" class="img-responsive">
-                                            </a>
-                                            
+                                           
                                             
                                             
                                         </div>
@@ -517,19 +526,35 @@
                                     
                                     <div class="col-md-12">
                                         <div class="row">
+                                            <a href="img/portfolio/ronin/1.jpg" data-toggle="lightbox" data-width="1280" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/1.jpg" class="img-responsive">
+                                            </a>
+                                            
+                                           
+                                            
+                                            <a href="img/portfolio/ronin/4.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/4.jpg" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/ronin/8.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/ronin/8.jpg" class="img-responsive">
+                                            </a>
+                                            
+                                           <div class="col-md-12">
+                                        <div class="row">
                                         
-                                        		<a href="img/portfolio/ronin (6).jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (6).jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/ronin (10).jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (10).jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/ronin (5).jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/ronin (5).jpg" class="img-responsive">
-                                            </a>
+                                        		
+                                            
+                                            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=h0vE5jtOhMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            
                                         
                                         </div>
+                                    </div> 
+                                            
+                                            
+                                        </div>
                                     </div>
+                                    
+                                    
                                 </div>
                                 <ul class="list-inline">
                                     <li>Fall 2016 2016</li>
@@ -618,8 +643,8 @@
 											<div class="col-md-12">
                                         <div class="row">
 
-														  <a href="img/portfolio/spheron_1.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/spheron_1.jpg" class="img-responsive">
+														  <a href="img/portfolio/spheron_1.jpeg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/spheron_1.jpeg" class="img-responsive">
                                             </a>	
                                             
                                             <a href="img/portfolio/spheron_2.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
@@ -770,13 +795,23 @@
                                 <h2 class="text-center">Cone-Screw SuperCharger</h2>
                                 <p class="item-intro text-muted text-center">An electric prototype supercharger.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/supercharger.jpg" alt="">
-                                <p class="text-center">A senior's idea to extract more power from our RE 500cc engine. A double helix wrapped around a cone with inlet and outlet at the opposite ends and the motor would be mounted to the head of the cone. Flow-Simulation resulted in 6psi boost at 1000rads/s and 0.75N-m of torque. Theoretically, this would boost the engine's naturally aspirated 23hp to ~41hp peak power.<a href="https://hackaday.io/project/163100-a-cone-screw-supercharger" target="_blank">here.</a> </p>
+                                <p class="text-center">A senior's idea to extract more power from our RE 500cc engine. A double helix wrapped around a cone with inlet and outlet at the opposite ends and the motor would be mounted to the head of the cone. Flow-Simulation resulted in 6psi boost at 1000rads/s and 0.75N-m of torque. Theoretically, this would boost the engine's naturally aspirated 23hp to ~32hp peak power.<a href="https://hackaday.io/project/163100-a-cone-screw-supercharger" target="_blank">here.</a> </p>
+                                
+                                
+                                <a href="img/portfolio/study_7.rar" target="_blank"><h3  style="font-family: Montserrat;color: #ba2828">3D files and the flow simulation results be found here.</h3></a>
+                                
                                 
 											<div class="row">   
 											<div class="col-md-12">
                                         <div class="row">
                                         
-                                        		
+                                        	  <a href="img/portfolio/sc1.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/sc1.jpg" class="img-responsive">
+                                            </a>	
+                                            
+                                            <a href="img/portfolio/sc2.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/sc2.jpg" class="img-responsive">
+                                            </a>
                                             
                                         
                                         </div>
