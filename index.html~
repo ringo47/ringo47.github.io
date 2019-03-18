@@ -159,7 +159,7 @@
                     <p>I am a graduate student pursuing my Master's in Mechanical Engineering and currently looking for internship opportunities in and around Detroit.</p>
                     <p>A polymath that loves building and engineering things, especially those pertaining to cars. I have a comprehensive experience working on simulations of automotive vehicles and CAD/FEA tools using SolidWorks, Ansys, Hypermesh, CATIA. I am constantly trying to learn and grow as an engineer and I would be a valuable addition to any engineering team in the automotive industry.</p>
                     <p>I am a huge electronics hobbyist and an avid programmer. Also an advanced beginner in website design, image/video editing, compositing and playing Guitar. I enjoy reading books, mostly Sci-Fi, Popular-Science and cosmology.</p>
-                    <p>Am Batman.</p>
+                    <!--<p>Am Batman.</p>-->
                 </div>
             </div>
         </div>
@@ -382,6 +382,7 @@
                             <p class="text-muted" style="text-align: center; font-style: italic">Fall '17</p>
                         </div>
                     </div>
+                    
                     <div class="col-md-4 col-sm-6 portfolio-item mix other">
                         <a href="#supercharger" class="portfolio-link" data-toggle="modal">
                             <img src="img/portfolio/supercharger1234.jpg" class="img-responsive" alt="" style="height:215px;width:370px;">
@@ -399,6 +400,16 @@
                         <div class="portfolio-caption">
                             <h4>Graphics / Movies</h4>
                             <p class="text-muted" style="text-align: center; font-style: italic">When words fall short.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 col-sm-6 portfolio-item mix diy">
+                        <a href="#stove" class="portfolio-link" data-toggle="modal">
+                            <img src="img/portfolio/stove.png" class="img-responsive" alt="" style="height:215px;width:370px;">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Stove Controller</h4>
+                            <p class="text-muted" style="text-align: center; font-style: italic">Making the stove smart.</p>
                         </div>
                     </div>
                     
@@ -438,6 +449,40 @@
         </div>
     </footer>
     <!-- Portfolio Modals -->
+    
+    <!-- Stove Controller -->
+    <div class="portfolio-modal modal fade" id="stove" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2 class="text-center">Stove Controller</h2>
+                                <p class="item-intro text-muted text-center">Turn the heat up or down from your phone via Bluetooth/Wi-Fi</p>
+                                
+                                <img class="img-responsive img-centered" src="img/portfolio/stove.png" alt="">
+                                <p class="text-center">The task for the final project of my 'Mechanics of Composite materials' course was to design a 6-ply composite for the top spar cap of a wind-mill. After deciding on the loads, I decided to use our university's high performance computing grid to run around 5 million combination of plies and the and it resulted in a ply combination that was stronger than anyone else's by at-least a factor of 7. The .m files can be found <a href="https://www.mathworks.com/matlabcentral/fileexchange/69703-composite-laminate-analyser?s_tid=prof_contriblnk" target="_blank">here.</a> </p>
+                                
+                                <ul class="list-inline">
+                                    <li>Fall '18</li>
+                                    <li>ME 5720</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     
     <!-- Composites -->
     <div class="portfolio-modal modal fade" id="composite" tabindex="-1" role="dialog" aria-hidden="true">
