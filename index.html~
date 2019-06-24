@@ -356,6 +356,17 @@
                             <p class="text-muted" style="text-align: center; font-style: italic">The star of Interstellar</p>
                         </div>
                     </div>
+                    
+                    <div class="col-md-4 col-sm-6 portfolio-item mix diy">
+                        <a href="#helmet" class="portfolio-link" data-toggle="modal">
+                            <img src="img/portfolio/helmet.png" class="img-responsive" alt="" style="height:215px;width:370px;">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Iron Helmet</h4>
+                            <p class="text-muted" style="text-align: center; font-style: italic">Touch activated mark #42 Iron Man's helmet.</p>
+                        </div>
+                    </div>
+                    
                     <div class="col-md-4 col-sm-6 portfolio-item mix diy">
                         <a href="#led" class="portfolio-link" data-toggle="modal">
                             <img src="img/portfolio/led1234.jpg" class="img-responsive" alt="" style="height:215px;width:370px;">
@@ -385,15 +396,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-md-4 col-sm-6 portfolio-item mix other">
-                        <a href="#art" class="portfolio-link" data-toggle="modal">
-                            <img src="img/portfolio/graphic.png" class="img-responsive" alt="" style="height:215px;width:370px;">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Graphics / Movies</h4>
-                            <p class="text-muted" style="text-align: center; font-style: italic">When words fall short.</p>
-                        </div>
-                    </div>
+
                     
                     <div class="col-md-4 col-sm-6 portfolio-item mix diy">
                         <a href="#stove" class="portfolio-link" data-toggle="modal">
@@ -412,6 +415,16 @@
                         <div class="portfolio-caption">
                             <h4>Iron Helmet</h4>
                             <p class="text-muted" style="text-align: center; font-style: italic">Touch activated mark #42 Iron Man's helmet.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 col-sm-6 portfolio-item mix other">
+                        <a href="#art" class="portfolio-link" data-toggle="modal">
+                            <img src="img/portfolio/graphic.png" class="img-responsive" alt="" style="height:215px;width:370px;">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Graphics / Movies</h4>
+                            <p class="text-muted" style="text-align: center; font-style: italic">When words fall short.</p>
                         </div>
                     </div>
                     
@@ -630,7 +643,81 @@
             </div>
         </div>
     </div>
-  
+
+<!-- Iron Man Helmet -->
+    <div class="portfolio-modal modal fade" id="helmet" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2 class="text-center">Iron Helmet: Mark 42</h2>
+                                <p class="item-intro text-muted text-center">I'm. Not. Iron Man.</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/im_cover.png" alt="" style="display:block;margin:auto">
+                                <p class="text-center">Basic four-bar linkage actuated by a single SG-90 servo. Has programmable WS2812b LEDs and is activated by a touch switch. All components are integrated into a single wiring harness that can all be packed into the helmet. Powered by 4x1v2 NiMH batteries and controlled by an Arduino Nano.</p>
+                                
+											<div class="row">   
+											<div class="col-md-12">
+                                        <div class="row">
+                                        	  <a href="img/portfolio/im7.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/im7.jpg" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/im8.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/im8.jpg" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/im1.jpeg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/im1.jpeg" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/im2.jpeg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/im2.jpeg" class="img-responsive">
+                                            </a>
+                                            <a href="img/portfolio/im6.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/im6.jpg" class="img-responsive">
+                                            </a>  
+                                            <a href="img/portfolio/im9.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
+                                                <img src="img/portfolio/im9.jpg" class="img-responsive">
+                                            </a>                            
+                                        </div>
+                                    </div>  
+                                    
+                                    <div class="col-md-12">
+                                        <div class="row">
+														 	<video width="720" controls>
+														  <source src="img/portfolio/im4.mp4" type="video/mp4">
+														  Your browser does not support HTML5 video.
+															</video>  
+                                        </div>
+                                    </div> 
+                                    
+                                    <div class="col-md-12">
+                                        <div class="row">
+														 	<video width="360" controls>
+														  <source src="img/portfolio/im5.mp4" type="video/mp4">
+														  Your browser does not support HTML5 video.
+															</video>  
+                                        </div>
+                                    </div>                        
+                                
+                                
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  <!-- Iron Man Helmet end-->
+
 <!-- LED -->
     <div class="portfolio-modal modal fade" id="led" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
@@ -990,79 +1077,7 @@
   </div>
   <!-- Art End-->
   
-<!-- Iron Man Helmet -->
-    <div class="portfolio-modal modal fade" id="helmet" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2 class="text-center">Iron Helmet: Mark 42</h2>
-                                <p class="item-intro text-muted text-center">I'm. Not. Iron Man.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/im_cover.png" alt="">
-                                <p class="text-center">Basic four-bar linkage actuated by a single SG-90 servo. Has programmable WS2812b LEDs and is activated by a touch switch. All components are integrated into a single wiring harness that can all be packed into the helmet. Powered by 4x1v2 NiMH batteries and controlled by an Arduino Nano.</p>
-                                
-											<div class="row">   
-											<div class="col-md-12">
-                                        <div class="row">
-                                        	  <a href="img/portfolio/im7.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/im7.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/im8.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/im8.jpg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/im1.jpeg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/im1.jpeg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/im2.jpeg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/im2.jpeg" class="img-responsive">
-                                            </a>
-                                            <a href="img/portfolio/im6.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/im6.jpg" class="img-responsive">
-                                            </a>  
-                                            <a href="img/portfolio/im9.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/im9.jpg" class="img-responsive">
-                                            </a>                            
-                                        </div>
-                                    </div>  
-                                    
-                                    <div class="col-md-12">
-                                        <div class="row">
-														 	<video width="720" controls>
-														  <source src="img/portfolio/im4.mp4" type="video/mp4">
-														  Your browser does not support HTML5 video.
-															</video>  
-                                        </div>
-                                    </div> 
-                                    
-                                    <div class="col-md-12">
-                                        <div class="row">
-														 	<video width="360" controls>
-														  <source src="img/portfolio/im5.mp4" type="video/mp4">
-														  Your browser does not support HTML5 video.
-															</video>  
-                                        </div>
-                                    </div>                        
-                                
-                                
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-  </div>
-  <!-- Iron Man Helmet end-->
+
  
     <script src="js/agency.js"></script>
     <script src="js/agency.min.js"></script>
