@@ -408,15 +408,6 @@
                         </div>
                     </div>
                     
-                    <div class="col-md-4 col-sm-6 portfolio-item mix diy">
-                        <a href="#helmet" class="portfolio-link" data-toggle="modal">
-                            <img src="img/portfolio/helmet.png" class="img-responsive" alt="" style="height:215px;width:370px;">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Iron Helmet</h4>
-                            <p class="text-muted" style="text-align: center; font-style: italic">Touch activated mark #42 Iron Man's helmet.</p>
-                        </div>
-                    </div>
                     
                     <div class="col-md-4 col-sm-6 portfolio-item mix other">
                         <a href="#art" class="portfolio-link" data-toggle="modal">
