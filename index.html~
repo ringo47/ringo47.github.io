@@ -202,7 +202,7 @@
                 <div class="col-md-2">
                     <span class="chart" data-percent="90">
                       <span class="percent"></span>
-                    <h3>Python</h3>
+                    <h3>Python/C/C++</h3>
                     </span>
                 </div>
                 <div class="col-md-2">
@@ -544,7 +544,7 @@
                                 <p class="item-intro text-muted text-center"></p>
                                 
                                 <img class="img-responsive img-centered" src="img/portfolio/hinge1.jpg" alt="">
-                                <p class="text-center">3D printed door hinge that is used in the Koenigsegg cars. Credits to <a href="https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg">Thang.</a> for making the files available. </p>
+                                <p class="text-center">3D printed version of the door hinge that is used in the Koenigsegg cars. Credits to <a href="https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg">Thang.</a> for making the files available. </p>
                                 
                                 
 										  <div class="row">   
