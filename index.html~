@@ -156,10 +156,11 @@
                     </div>
                 </div>
                 <div class="col-md-9">
-                    <p>I am a graduate student pursuing my Master's in Mechanical Engineering and currently looking for internship opportunities in and around Detroit.</p>
-                    <p>A polymath that loves building and engineering things, especially those pertaining to cars. I have a comprehensive experience working on simulations of automotive vehicles and CAD/FEA tools using SolidWorks, Ansys, Hypermesh, CATIA. I am constantly trying to learn and grow as an engineer and I would be a valuable addition to any engineering team in the automotive industry.</p>
-                    <p>I am a huge electronics hobbyist and an avid programmer. Also an advanced beginner in website design, image/video editing, compositing and playing Guitar. I enjoy reading books, mostly Sci-Fi, Popular-Science and cosmology.</p>
-                    <!--<p>Am Batman.</p>-->
+                    
+                    <p>A polymath that loves building and engineering things, especially those pertaining to cars. I've been a key part of two formula student teams, built an autonomous spherical bot and a ton of hobby projects. I'm passionate about a career in which I get to build electric cars, contribute to self-driving tech and make the fleet of the future. Skilled at problem solving, mechanical design and programming.</p>
+                    <p>I'm a huge electronics hobbyist, avid programmer and a Linux enthusiast. Also an advanced beginner in website design, image/video editing, compositing and playing Guitar. I enjoy reading books, mostly Sci-Fi, Popular-Science and cosmology. </p>
+                    <p>Currently, a graduate student pursuing my Master's in Mechanical Engineering and currently looking for internship opportunities in and around Detroit.</p>
+                    <p>Am Batman.</p>
                 </div>
             </div>
         </div>
@@ -201,12 +202,10 @@
                 <div class="col-md-2 ">
                     <span class="chart" data-percent="90">
                       <span class="percent"></span>
-                    <h3>Rapid Prototpying</h3>
+                    <h3>Rapid Prototpying/DIY</h3>
                     </span>
                 </div>
-                
-                
-                
+
                 <div class="col-md-2">
                     <span class="chart" data-percent="100" style="color:green;">
                       <span class="percent" style="color:green;"></span>
@@ -272,7 +271,7 @@
                             <p>Chassis, CAD, CAE</p>
                         </header>
                         <p>Was part of the pilot team to compete in formula student at our college.</p>
-                        <p>Designed and modelled the car. Integrated all the subsystems into the vehicle. Developed a prototype electric supercharger and implemented an electric solenoid gear shift. You can read more about it <a href="ami/index.html">here</a></p>
+                        <p>Designed and modeled the car. Integrated all the subsystems into the vehicle. Developed a prototype electric supercharger and implemented an electric solenoid gear shift. You can read more about it <a href="ami/index.html">here</a></p>
 
                     </article>
                 </div>
@@ -795,6 +794,16 @@
 											<div class="row">   
 											<div class="col-md-12">
                                         <div class="row">
+                                        
+                                        
+                                   <div class="col-md-12">
+                                        <div class="row">
+														 	<video width="360" controls>
+														  <source src="img/portfolio/im5.mp4" type="video/mp4">
+														  Your browser does not support HTML5 video.
+															</video>  
+                                        </div>
+                                    </div>
                                         	  <a href="img/portfolio/im7.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
                                                 <img src="img/portfolio/im7.jpg" class="img-responsive">
                                             </a>
@@ -826,20 +835,15 @@
                                         </div>
                                     </div>  
                                     
+                                    
+                                    
                                     <div class="col-md-12">
                                         <div class="row">
                                         		<iframe width="560" height="315" src="https://www.youtube.com/embed/vBvM_g96itc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                   	</div> 
                                     
-                                    <div class="col-md-12">
-                                        <div class="row">
-														 	<video width="360" controls>
-														  <source src="img/portfolio/im5.mp4" type="video/mp4">
-														  Your browser does not support HTML5 video.
-															</video>  
-                                        </div>
-                                    </div>
+                                   
                                     
                                     <div class="col-md-12">
                                         <div class="row">
