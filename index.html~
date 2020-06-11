@@ -323,7 +323,7 @@
                         </a>
                         <div class="portfolio-caption">
                             <h4>Ronin: Zero</h4>
-                            <p class="text-muted" style="text-align: center; font-style: italic">A Single-seater race car,SupraSAE India 2016</p>
+                            <p class="text-muted" style="text-align: center; font-style: italic">A Single-seater race car, SupraSAE India 2016</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item mix diy">
@@ -778,7 +778,7 @@
                                 <h2 class="text-center">Iron Helmet: Mark 42</h2>
                                 <p class="item-intro text-muted text-center">I'm. Not. Iron Man.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/im_cover.png" alt="" style="display:block;margin:auto">
-                                <p class="text-center">Basic four-bar linkage actuated by a single SG-90 servo. Has programmable WS2812b LEDs and is activated by a touch switch. All components are integrated into a single wiring harness that can all be packed into the helmet. Powered by 4x1v2 NiMH batteries and controlled by an Arduino Nano.</p>
+                                <p class="text-center">Arduino Nano controlling four-bar linkage actuated by a single SG-90 servo. Has programmable WS2812b LEDs and is activated by a touch switch. All components are integrated into a single wiring harness that can all be packed into the helmet. Powered by 4x1v2 NiMH batteries and controlled by an Arduino Nano.</p>
                                 
 											<div class="row">   
 											<div class="col-md-12">
@@ -810,7 +810,7 @@
                                                 <img src="img/portfolio/im6.jpg" class="img-responsive">
                                             </a>  
                                             <a href="img/portfolio/im9.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
-                                                <img src="img/portfolio/im9.jpg" class="img-responsive">
+                                                <img src="img/portfolio/im13.jpg" class="img-responsive">
                                             </a>
                                             <a href="img/portfolio/im9.jpg" data-toggle="lightbox" data-gallery="smartphone" class="col-sm-4">
                                                 <img src="img/portfolio/im10.jpg" class="img-responsive">
